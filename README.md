@@ -5,12 +5,12 @@ An HTML5 Snake game I wrote to learn how to use  <canvas>
 
 Controls
 ------------
-spacebar - start or retstart the game.
-p key - pause the game.
-w or up arrow - turn the snake up.
-a or left arrow - turn the snake left.
-d or right arrow - turn the snake right.
-s or down arrow - turn the snake down.
+* spacebar - start or retstart the game.
+* p key - pause the game.
+* w or up arrow - turn the snake up.
+* a or left arrow - turn the snake left.
+* d or right arrow - turn the snake right.
+* s or down arrow - turn the snake down.
 
 Note:
 ------
