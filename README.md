@@ -3,6 +3,8 @@ Snake.js
 
 An HTML5 Snake game I wrote to learn how to use  <canvas>
 
+[Play it here!](https://projects-galcohen.rhcloud.com/snake)
+
 Controls
 ------------
 * spacebar - start or retstart the game.
